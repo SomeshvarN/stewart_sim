@@ -13,5 +13,6 @@ The codebase is split into three clean, decoupled modules:
 ```text
 stewart_sim/
 ├── platform_core.py        # Core Kinematics, Analytical Jacobian & FK Engine
+├── dynamics_engine.py      # Inverse Dynamics & Actuator Force Mapping
 ├── simulation_dash.py      # Real-Time 3D Motion & Dexterity Dashboard
 └── workspace_analyzer.py   # 3D Reachable Volume & Dexterity Heatmap Engine
