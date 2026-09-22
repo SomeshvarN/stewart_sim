@@ -8,7 +8,7 @@ This repository provides full inverse kinematic modeling, analytical Jacobian ev
 
 ## 🏗️ Project Architecture
 
-The codebase is split into flour clean, decoupled modules:
+The codebase is split into five clean, decoupled modules:
 
 ```text
 stewart_sim/
