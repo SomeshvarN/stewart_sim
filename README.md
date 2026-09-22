@@ -2,13 +2,13 @@
 
 A modular Python framework for modeling, animating, and analyzing a 6-Degree-of-Freedom (6-DOF) parallel manipulator (Stewart Platform / Hexapod). 
 
-This repository provides full inverse kinematic modeling, analytical Jacobian evaluation, Newton-Raphson numerical forward kinematics, real-time trajectory visualization, and 3D workspace dexterity mapping.
+This repository provides full inverse kinematic modeling, analytical Jacobian evaluation,Inverse kinematics and Actuator force mappaing, Newton-Raphson numerical forward kinematics, real-time trajectory visualization, and 3D workspace dexterity mapping.
 
 ---
 
 ## 🏗️ Project Architecture
 
-The codebase is split into three clean, decoupled modules:
+The codebase is split into flour clean, decoupled modules:
 
 ```text
 stewart_sim/
