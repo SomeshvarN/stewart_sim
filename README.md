@@ -16,3 +16,4 @@ stewart_sim/
 ├── dynamics_engine.py      # Inverse Dynamics & Actuator Force Mapping
 ├── simulation_dash.py      # Real-Time 3D Motion & Dexterity Dashboard
 └── workspace_analyzer.py   # 3D Reachable Volume & Dexterity Heatmap Engine
+└── actuator_sizing.py      # Hardware Sizing, Power, & Buckling Engineering Tool
